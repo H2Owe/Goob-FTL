@@ -5,7 +5,7 @@
   description: A banner displaying the emblem of the Gorlex Marauders.
   components:
   - type: Sprite
-    sprite: _Goobstation\Structures\Decoration\bannersfaction.rsi # Goobtier - unique sprites
+    sprite: _Goobstation/Structures/Decoration/bannersfaction.rsi # Goobtier - unique sprites
     state: banner_gorlex
   - type: Construction
     graph: BannersGraph
@@ -18,7 +18,7 @@
   description: A banner displaying the emblem of The Independent Systems.
   components:
   - type: Sprite
-    sprite: _Goobstation\Structures\Decoration\bannersfaction.rsi # Goobtier - unique sprites
+    sprite: _Goobstation/Structures/Decoration/bannersfaction.rsi # Goobtier - unique sprites
     state: banner_indie
   - type: Construction
     graph: BannersGraph
@@ -31,7 +31,7 @@
   description: A banner displaying the emblem of The Trans-Solar Federation.
   components:
   - type: Sprite
-    sprite: _Goobstation\Structures\Decoration\bannersfaction.rsi
+    sprite: _Goobstation/Structures/Decoration/bannersfaction.rsi
     state: banner_TSF
   - type: Construction
     graph: BannersGraph
