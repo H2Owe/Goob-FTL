@@ -25,19 +25,6 @@
     node: BannerSecurityNode
 
 - type: entity
-  id: BannerTSF
-  parent: BannerBase
-  name: tsf banner
-  description: A banner displaying the emblem of The Trans-Solar Federation.
-  components:
-  - type: Sprite
-    sprite: _NF\Structures\Decoration\bannersfaction.rsi # Goobtier - unique sprites
-    state: banner_TSF
-  - type: Construction
-    graph: BannersGraph
-    node: BannerTSFNode
-
-- type: entity
   id: BannerGoblin01
   parent: BannerBase
   name: goblin banner

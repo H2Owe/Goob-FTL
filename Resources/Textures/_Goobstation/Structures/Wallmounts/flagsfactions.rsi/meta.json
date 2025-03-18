@@ -8,13 +8,13 @@
   },
   "states": [
     {
-      "name": "banner_gorlex"
+      "name": "gorlex_flag"
     },
     {
-      "name": "banner_indie"
+      "name": "indie_flag"
     },
     {
-      "name": "banner_TSF"
+      "name": "tsf_flag"
     }
   ]
 }
