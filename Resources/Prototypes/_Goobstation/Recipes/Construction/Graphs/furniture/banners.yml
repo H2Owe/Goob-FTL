@@ -1,5 +1,5 @@
 - type: constructionGraph
-  id: BannersGraph
+  id: BannersFactionGraph
   start: start
   graph:
     - node: start
