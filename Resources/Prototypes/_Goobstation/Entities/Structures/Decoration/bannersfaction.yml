@@ -8,7 +8,7 @@
     sprite: _Goobstation/Structures/Decoration/bannersfaction.rsi # Goobtier - unique sprites
     state: banner_gorlex
   - type: Construction
-    graph: BannersGraph
+    graph: BannersFactionGraph
     node: BannerGorlexNode
     
 - type: entity
@@ -21,7 +21,7 @@
     sprite: _Goobstation/Structures/Decoration/bannersfaction.rsi # Goobtier - unique sprites
     state: banner_indie
   - type: Construction
-    graph: BannersGraph
+    graph: BannersFactionGraph
     node: BannerIndieNode
 
 - type: entity
@@ -34,5 +34,5 @@
     sprite: _Goobstation/Structures/Decoration/bannersfaction.rsi
     state: banner_TSF
   - type: Construction
-    graph: BannersGraph
+    graph: BannersFactionGraph
     node: BannerTSFNode

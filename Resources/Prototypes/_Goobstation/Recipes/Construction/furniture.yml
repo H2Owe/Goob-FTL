@@ -3,7 +3,7 @@
   id: BannerGorlex
   name: gorlex banner
   description: A banner displaying the emblem of the Gorlex Marauders.
-  graph: BannersGraph
+  graph: BannersFactionGraph
   startNode: start
   targetNode: BannerGorlexNode
   category: construction-category-furniture
@@ -20,7 +20,7 @@
   id: BannerIndie
   name: indie banner
   description: A banner displaying the emblem of The Independent Systems.
-  graph: BannersGraph
+  graph: BannersFactionGraph
   startNode: start
   targetNode: BannerIndieNode
   category: construction-category-furniture
@@ -37,7 +37,7 @@
   id: BannerTSF
   name: tsf banner
   description: A banner displaying the emblem of The Trans-Solar Federation.
-  graph: BannersGraph
+  graph: BannersFactionGraph
   startNode: start
   targetNode: BannerTSFNode
   category: construction-category-furniture
