@@ -1,0 +1,25 @@
+- type: entity
+  id: BannerGorlex
+  parent: BannerBase
+  name: gorlex banner
+  description: A banner displaying the emblem of the Gorlex Marauders.
+  components:
+  - type: Sprite
+    sprite: _NF\Structures\Decoration\bannersfaction.rsi # Goobtier - unique sprites
+    state: banner_gorlex
+  - type: Construction
+    graph: BannersGraph
+    node: BannerGorlexNode
+    
+- type: entity
+  id: BannerIndie
+  parent: BannerBase
+  name: indie banner
+  description: A banner displaying the emblem of The Independant Systems.
+  components:
+  - type: Sprite
+    sprite: _NF\Structures\Decoration\bannersfaction.rsi # Goobtier - unique sprites
+    state: banner_indie
+  - type: Construction
+    graph: BannersGraph
+    node: BannerIndieNode
